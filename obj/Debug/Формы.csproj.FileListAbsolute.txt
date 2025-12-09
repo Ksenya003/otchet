@@ -1,0 +1,36 @@
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\bin\Debug\Формы.exe.config
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\bin\Debug\Формы.exe
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\bin\Debug\Формы.pdb
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.Form1.resources
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.Form2.resources
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.Form3.resources
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.Properties.Resources.resources
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.csproj.GenerateResource.cache
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.exe
+C:\Users\user\Desktop\учеба\3 курс\тимонина\Формы\Формы\Формы\obj\Debug\Формы.pdb
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\bin\Debug\Формы.exe.config
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\bin\Debug\Формы.exe
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\bin\Debug\Формы.pdb
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.Form1.resources
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.Form2.resources
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.Form3.resources
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.Properties.Resources.resources
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.csproj.GenerateResource.cache
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.exe
+C:\Users\user\Desktop\учеба\3 курс\анализ ПО\Формы\вся инфа\Формы\obj\Debug\Формы.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.csproj.AssemblyReference.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.pdb
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.Form1.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.Form2.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.Form3.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.Properties.Resources.resources
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.csproj.GenerateResource.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\obj\Debug\Формы.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\bin\Debug\Формы.exe.config
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\bin\Debug\Формы.exe
+C:\Users\Пользователь\OneDrive\Рабочий стол\практика\вся инфа\Формы\bin\Debug\Формы.pdb
